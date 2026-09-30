@@ -1,0 +1,11 @@
+item_name,units_sold,revenue,distinct_customers
+Pepperoni Pizza,1496,571476.0,665
+Farmhouse Pizza,1452,502043.0,654
+Mutton Biryani,1129,410882.0,498
+Margherita Pizza,1500,390144.0,671
+Butter Chicken,998,331409.0,418
+Chicken Biryani,1186,329084.0,500
+Chicken Manchurian,1192,298189.0,525
+Fried Rice,1302,275648.0,568
+Paneer Tikka,954,249110.0,397
+Veg Hakka Noodles,1277,248235.0,569

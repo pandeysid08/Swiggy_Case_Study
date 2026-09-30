@@ -1,0 +1,5 @@
+segment,customers,avg_recency_days,avg_orders,revenue
+Champions (recent + frequent),840,11.0,12.5,3985664.0
+"At Risk (was frequent, gone quiet)",392,99.0,7.8,1189547.0
+Hibernating,842,123.0,1.6,534598.0
+New / Promising,392,14.0,2.0,302339.0

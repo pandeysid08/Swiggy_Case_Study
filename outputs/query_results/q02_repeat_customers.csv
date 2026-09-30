@@ -1,0 +1,5 @@
+segment,customers,pct_customers,avg_spend,pct_revenue
+1 order,657,26.6,382.0,4.2
+2-4 orders,713,28.9,1093.0,13.0
+5-9 orders,580,23.5,2561.0,24.7
+10+ orders,516,20.9,6777.0,58.2

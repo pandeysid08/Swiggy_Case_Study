@@ -1,0 +1,11 @@
+daypart,day_type,orders,avg_order_value
+1 Breakfast (6-10),Weekday,1352,384.0
+1 Breakfast (6-10),Weekend,544,389.0
+2 Lunch (11-15),Weekday,3774,385.0
+2 Lunch (11-15),Weekend,1428,382.0
+3 Snacks (16-18),Weekday,1614,371.0
+3 Snacks (16-18),Weekend,569,390.0
+4 Dinner (19-22),Weekday,3907,386.0
+4 Dinner (19-22),Weekend,1642,379.0
+5 Late night,Weekday,601,387.0
+5 Late night,Weekend,255,378.0

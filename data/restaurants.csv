@@ -1,0 +1,151 @@
+restaurant_id,name,city,cuisine,rating
+1,Restaurant_001,Delhi,Desserts,4.7
+2,Restaurant_002,Bhubaneswar,Desserts,4.6
+3,Restaurant_003,Bengaluru,Pizza,4.0
+4,Restaurant_004,Delhi,Fast Food,4.9
+5,Restaurant_005,Bhubaneswar,Chinese,4.1
+6,Restaurant_006,Mumbai,South Indian,3.6
+7,Restaurant_007,Bengaluru,Pizza,3.2
+8,Restaurant_008,Mumbai,South Indian,4.6
+9,Restaurant_009,Mumbai,Pizza,4.7
+10,Restaurant_010,Bengaluru,Fast Food,3.5
+11,Restaurant_011,Delhi,Chinese,4.3
+12,Restaurant_012,Mumbai,North Indian,3.4
+13,Restaurant_013,Hyderabad,Chinese,4.3
+14,Restaurant_014,Mumbai,Desserts,3.4
+15,Restaurant_015,Hyderabad,Biryani,4.3
+16,Restaurant_016,Bhubaneswar,Fast Food,4.7
+17,Restaurant_017,Bhubaneswar,North Indian,3.8
+18,Restaurant_018,Mumbai,Pizza,4.1
+19,Restaurant_019,Bengaluru,Desserts,4.1
+20,Restaurant_020,Bhubaneswar,Biryani,4.5
+21,Restaurant_021,Bhubaneswar,Desserts,4.3
+22,Restaurant_022,Bhubaneswar,South Indian,3.8
+23,Restaurant_023,Bengaluru,Desserts,3.7
+24,Restaurant_024,Mumbai,Desserts,4.7
+25,Restaurant_025,Mumbai,Biryani,4.8
+26,Restaurant_026,Bengaluru,Pizza,4.6
+27,Restaurant_027,Bengaluru,Biryani,3.9
+28,Restaurant_028,Hyderabad,Pizza,3.4
+29,Restaurant_029,Bengaluru,Biryani,4.8
+30,Restaurant_030,Bhubaneswar,Pizza,3.9
+31,Restaurant_031,Hyderabad,Desserts,4.6
+32,Restaurant_032,Bhubaneswar,South Indian,3.2
+33,Restaurant_033,Bhubaneswar,South Indian,4.2
+34,Restaurant_034,Hyderabad,Chinese,4.1
+35,Restaurant_035,Mumbai,Pizza,3.3
+36,Restaurant_036,Bengaluru,Fast Food,3.7
+37,Restaurant_037,Hyderabad,Fast Food,4.6
+38,Restaurant_038,Mumbai,Fast Food,4.3
+39,Restaurant_039,Hyderabad,Desserts,4.6
+40,Restaurant_040,Bhubaneswar,North Indian,3.2
+41,Restaurant_041,Bengaluru,Desserts,3.6
+42,Restaurant_042,Bhubaneswar,Pizza,4.3
+43,Restaurant_043,Bengaluru,Biryani,3.6
+44,Restaurant_044,Mumbai,Pizza,3.7
+45,Restaurant_045,Bhubaneswar,Pizza,3.3
+46,Restaurant_046,Delhi,Chinese,3.5
+47,Restaurant_047,Bhubaneswar,Chinese,4.4
+48,Restaurant_048,Bhubaneswar,Pizza,4.1
+49,Restaurant_049,Delhi,South Indian,4.7
+50,Restaurant_050,Delhi,North Indian,4.9
+51,Restaurant_051,Delhi,Biryani,3.5
+52,Restaurant_052,Bengaluru,South Indian,3.9
+53,Restaurant_053,Mumbai,Desserts,4.4
+54,Restaurant_054,Bhubaneswar,Pizza,4.5
+55,Restaurant_055,Hyderabad,Biryani,3.4
+56,Restaurant_056,Mumbai,Chinese,4.0
+57,Restaurant_057,Delhi,Pizza,3.3
+58,Restaurant_058,Delhi,Chinese,4.0
+59,Restaurant_059,Bengaluru,Fast Food,3.9
+60,Restaurant_060,Bhubaneswar,Pizza,3.5
+61,Restaurant_061,Bengaluru,Pizza,4.1
+62,Restaurant_062,Bengaluru,Desserts,4.5
+63,Restaurant_063,Hyderabad,Chinese,4.8
+64,Restaurant_064,Mumbai,Chinese,4.8
+65,Restaurant_065,Bengaluru,Chinese,4.0
+66,Restaurant_066,Delhi,Pizza,4.6
+67,Restaurant_067,Delhi,North Indian,3.5
+68,Restaurant_068,Bhubaneswar,Fast Food,4.1
+69,Restaurant_069,Bengaluru,North Indian,4.6
+70,Restaurant_070,Mumbai,South Indian,4.4
+71,Restaurant_071,Mumbai,North Indian,4.5
+72,Restaurant_072,Mumbai,Pizza,3.9
+73,Restaurant_073,Mumbai,Desserts,4.1
+74,Restaurant_074,Mumbai,North Indian,3.3
+75,Restaurant_075,Bhubaneswar,Chinese,4.0
+76,Restaurant_076,Mumbai,South Indian,4.3
+77,Restaurant_077,Mumbai,North Indian,3.9
+78,Restaurant_078,Mumbai,Desserts,3.8
+79,Restaurant_079,Mumbai,Desserts,4.4
+80,Restaurant_080,Mumbai,Chinese,4.3
+81,Restaurant_081,Bengaluru,Biryani,3.7
+82,Restaurant_082,Bengaluru,Desserts,4.2
+83,Restaurant_083,Hyderabad,Biryani,4.0
+84,Restaurant_084,Mumbai,Chinese,3.5
+85,Restaurant_085,Delhi,Pizza,4.0
+86,Restaurant_086,Delhi,Chinese,4.5
+87,Restaurant_087,Bhubaneswar,South Indian,4.4
+88,Restaurant_088,Bengaluru,Desserts,4.0
+89,Restaurant_089,Bengaluru,Biryani,3.7
+90,Restaurant_090,Delhi,Biryani,3.5
+91,Restaurant_091,Hyderabad,Pizza,4.3
+92,Restaurant_092,Bengaluru,South Indian,3.9
+93,Restaurant_093,Bhubaneswar,Chinese,3.4
+94,Restaurant_094,Bhubaneswar,North Indian,3.5
+95,Restaurant_095,Bengaluru,North Indian,4.5
+96,Restaurant_096,Hyderabad,Chinese,3.5
+97,Restaurant_097,Delhi,North Indian,4.2
+98,Restaurant_098,Bhubaneswar,South Indian,3.7
+99,Restaurant_099,Delhi,Biryani,4.3
+100,Restaurant_100,Bengaluru,Pizza,4.1
+101,Restaurant_101,Hyderabad,Pizza,4.5
+102,Restaurant_102,Bengaluru,South Indian,4.0
+103,Restaurant_103,Hyderabad,Biryani,3.9
+104,Restaurant_104,Delhi,North Indian,4.4
+105,Restaurant_105,Delhi,Pizza,3.4
+106,Restaurant_106,Mumbai,Fast Food,4.6
+107,Restaurant_107,Bengaluru,Desserts,4.3
+108,Restaurant_108,Delhi,Desserts,4.5
+109,Restaurant_109,Bhubaneswar,North Indian,4.8
+110,Restaurant_110,Mumbai,Desserts,4.7
+111,Restaurant_111,Bengaluru,Pizza,3.7
+112,Restaurant_112,Delhi,Biryani,4.8
+113,Restaurant_113,Bhubaneswar,Biryani,4.7
+114,Restaurant_114,Hyderabad,Chinese,4.7
+115,Restaurant_115,Bhubaneswar,Pizza,3.7
+116,Restaurant_116,Bengaluru,Desserts,3.3
+117,Restaurant_117,Hyderabad,South Indian,4.2
+118,Restaurant_118,Mumbai,Pizza,4.6
+119,Restaurant_119,Bhubaneswar,South Indian,4.3
+120,Restaurant_120,Mumbai,Biryani,3.7
+121,Restaurant_121,Bhubaneswar,South Indian,4.6
+122,Restaurant_122,Hyderabad,Fast Food,4.7
+123,Restaurant_123,Hyderabad,Chinese,3.3
+124,Restaurant_124,Mumbai,Chinese,3.4
+125,Restaurant_125,Hyderabad,Chinese,3.7
+126,Restaurant_126,Mumbai,Chinese,4.3
+127,Restaurant_127,Bhubaneswar,Desserts,3.6
+128,Restaurant_128,Bengaluru,Pizza,3.3
+129,Restaurant_129,Delhi,Biryani,3.9
+130,Restaurant_130,Bengaluru,Chinese,3.4
+131,Restaurant_131,Delhi,Biryani,4.0
+132,Restaurant_132,Hyderabad,South Indian,3.4
+133,Restaurant_133,Hyderabad,Biryani,4.2
+134,Restaurant_134,Delhi,Chinese,4.4
+135,Restaurant_135,Delhi,Fast Food,4.7
+136,Restaurant_136,Hyderabad,Chinese,3.8
+137,Restaurant_137,Mumbai,North Indian,4.0
+138,Restaurant_138,Delhi,Pizza,4.2
+139,Restaurant_139,Bengaluru,Chinese,3.7
+140,Restaurant_140,Bhubaneswar,Pizza,3.4
+141,Restaurant_141,Bhubaneswar,Fast Food,3.9
+142,Restaurant_142,Mumbai,Pizza,3.5
+143,Restaurant_143,Bengaluru,Pizza,3.5
+144,Restaurant_144,Hyderabad,Chinese,3.3
+145,Restaurant_145,Bengaluru,Fast Food,3.2
+146,Restaurant_146,Bengaluru,Pizza,3.3
+147,Restaurant_147,Delhi,Fast Food,3.2
+148,Restaurant_148,Bhubaneswar,Desserts,3.7
+149,Restaurant_149,Delhi,Fast Food,3.4
+150,Restaurant_150,Bhubaneswar,South Indian,4.6
